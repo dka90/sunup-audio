@@ -88,4 +88,19 @@ Gayatri mantra  [gayatri.ogg]
   Source: https://commons.wikimedia.org/wiki/File:Gayatri_mantra.ogg
   Licence: CC0 1.0 (public domain dedication)
 
+Hanuman Chalisa  [chalisa.mp3]
+  Singer: Arthur Davenport
+  Source: https://archive.org/details/20-hanuman-chalisa-solo-arthur-davenport-stay-tuned-v-2-16bit
+  Licence: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+Hanuman Chalisa (Rudy)  [Hanuman Chalisa (Rudy).mp3]
+  Singer: Rudy
+  Source: https://archive.org/details/RudyHanumanChalisaBhajanShreeHanumanChalisamp3
+  Licence: CC BY-NC-SA 2.5 (https://creativecommons.org/licenses/by-nc-sa/2.5/)
+
+Hanuman Chalisa (long recital)  [Hanuman Chalisa (long recital).mp3]
+  Singer: B
+  Source: https://archive.org/details/HanumanChalisa_985
+  Licence: CC0 1.0 (public domain dedication)
+
 Note: tracks marked CC BY-NC may only be used non-commercially. Sunup offers them free, with no ads or payment attached to them.
